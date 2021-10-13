@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'summary'
   spec.description   = 'description'
-  spec.homepage      = "homepage"
+  spec.homepage      = "https://example.com"
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 

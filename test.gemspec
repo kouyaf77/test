@@ -9,10 +9,10 @@ Gem::Specification.new do |spec|
   spec.email         = ["kouyaf77@gmail.com"]
 
   spec.summary       = 'summary'
-  spec.description   = 'description
+  spec.description   = 'description'
   spec.homepage      = "homepage"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
 
